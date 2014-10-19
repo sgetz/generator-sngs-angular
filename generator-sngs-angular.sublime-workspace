@@ -1,0 +1,670 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"gr",
+				"green_car"
+			],
+			[
+				"C",
+				"C"
+			],
+			[
+				"re",
+				"red_car"
+			],
+			[
+				"y",
+				"y"
+			],
+			[
+				"au",
+				"autoId"
+			],
+			[
+				"Y",
+				"Y"
+			],
+			[
+				"yS",
+				"ySpot"
+			],
+			[
+				"ta",
+				"taskConfig"
+			],
+			[
+				"src",
+				"src_dir"
+			],
+			[
+				"di",
+				"directiveSlug"
+			],
+			[
+				"wi",
+				"willBeRun"
+			],
+			[
+				"pr",
+				"prompts"
+			],
+			[
+				"t",
+				"type	Attr"
+			],
+			[
+				"s",
+				"scope"
+			],
+			[
+				"mo",
+				"modernizr_source"
+			],
+			[
+				"boo",
+				"bootstrapjs_source"
+			],
+			[
+				"j",
+				"jquery_source"
+			],
+			[
+				"in",
+				"index_source"
+			],
+			[
+				"bo",
+				"bower_dir"
+			],
+			[
+				"ind",
+				"index_source"
+			],
+			[
+				"mai",
+				"main_css"
+			],
+			[
+				"index_",
+				"index_file_path"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"key",
+				"List bound keys"
+			],
+			[
+				"angularjs fin",
+				"AngularJS: Look Up Definition"
+			],
+			[
+				"angular",
+				"Set Syntax: HTML (Angular.js)"
+			],
+			[
+				"angul",
+				"AngularJS: Look Up Definition"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"api",
+				"Set Syntax: API Blueprint"
+			],
+			[
+				"markdo",
+				"Set Syntax: Markdown GFM"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"api bl",
+				"Set Syntax: API Blueprint"
+			],
+			[
+				"api b",
+				"Set Syntax: API Blueprint"
+			],
+			[
+				"",
+				"API Blueprint: Parse to JSON AST"
+			],
+			[
+				"copy",
+				"Copy Path Relative to Project"
+			],
+			[
+				"packag",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 746.0
+	},
+	"console":
+	{
+		"height": 225.0,
+		"history":
+		[
+			"sublime.log_commands(True)",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/Users/sam/GoogleDrive/CodeAndDev/JFace-Mobile/jface-mobile/src/bower_components/font-awesome/less/variables.less",
+		"/Users/sam/GoogleDrive/CodeAndDev/JFace-Mobile/jface-mobile/.tmp/styles.css",
+		"/Users/sam/GoogleDrive/CodeAndDev/JFace-Mobile/jface-mobile/node_modules/grunt/node_modules/js-yaml/node_modules/argparse/lib/argument_parser.js",
+		"/Users/sam/GoogleDrive/CodeAndDev/JFace-Mobile/jface-mobile/node_modules/bower/node_modules/mout/lang/createObject.js",
+		"/Users/sam/GoogleDrive/CodeAndDev/JFace-Mobile/jface-mobile/coffeelint.json",
+		"/Users/sam/GoogleDrive/CodeAndDev/JFace-Mobile/jface-mobile/.tmp/config.js",
+		"/Users/sam/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/sam/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/Default (OSX).sublime-keymap",
+		"/Users/sam/GoogleDrive/CodeAndDev/JFace-Mobile/jface-mobile/.tmp/app/app.js",
+		"/Users/sam/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/Users/sam/GoogleDrive/CodeAndDev/JFace-Mobile/jface-mobile/.tmp/app/components/services/factory-example-service.js",
+		"/Users/sam/GoogleDrive/CodeAndDev/JFace-Mobile/jface-mobile/.tmp/bower_components/angular-ui-router/release/angular-ui-router.js",
+		"/Users/sam/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/sam/GoogleDrive/CodeAndDev/JFace-Mobile/jface-mobile/.tmp/index.html",
+		"/Users/sam/GoogleDrive/CodeAndDev/JFace-Mobile/jface-mobile/src/utils/ngcoffee-base-controller.coffee",
+		"/Users/sam/GoogleDrive/CodeAndDev/JFace-Mobile/jface-mobile/src/utils/general.coffee",
+		"/Users/sam/GoogleDrive/CodeAndDev/JFace-Mobile/jface-mobile/src/styles.less",
+		"/Users/sam/GoogleDrive/CodeAndDev/JFace-Mobile/jface-mobile/src/app/main-app-styles.less",
+		"/Users/sam/GoogleDrive/CodeAndDev/JFace-Mobile/jface-mobile/src/index.html",
+		"/Users/sam/GoogleDrive/CodeAndDev/JFace-Mobile/jface-mobile/src/app/routes.js",
+		"/Users/sam/GoogleDrive/CodeAndDev/JFace-Mobile/jface-mobile/src/app/states/test/test.less",
+		"/Users/sam/Downloads/sublime-bound-keys.txt",
+		"/Users/sam/Downloads/test-api-blueprint.md",
+		"/Users/sam/GoogleDrive/CodeAndDev/JFace-Mobile/jface-mobile/src/app/states/bob.less",
+		"/Users/sam/GoogleDrive/CodeAndDev/JFace-Mobile/jface-mobile/src/app/bob.less",
+		"/Users/sam/GoogleDrive/CodeAndDev/JFace-Mobile/jface-mobile/src/config.coffee",
+		"/Users/sam/GoogleDrive/CodeAndDev/JFace-Mobile/jface-mobile/.build-utils/grunt-utils.coffee",
+		"/Users/sam/GoogleDrive/CodeAndDev/JFace-Mobile/jface-mobile/.bowerrc",
+		"/Users/sam/GoogleDrive/CodeAndDev/JFace-Mobile/jface-mobile/src/app/global-styles.less",
+		"/Users/sam/GoogleDrive/CodeAndDev/JFace-Mobile/jface-mobile/src/config.js",
+		"/Users/sam/GoogleDrive/CodeAndDev/JFace-Mobile/jface-mobile/src/bower_components/requirejs/require.js",
+		"/Users/sam/GoogleDrive/CodeAndDev/JFace-Mobile/jface-mobile/node_modules/grunt-bower-requirejs/tasks/bower-requirejs.js",
+		"/Users/sam/GoogleDrive/CodeAndDev/JFace-Mobile/jface-mobile/src/sam.coffee",
+		"/Users/sam/GoogleDrive/CodeAndDev/JFace-Mobile/jface-mobile/jface-mobile-project.sublime-project",
+		"/Users/sam/GoogleDrive/CodeAndDev/JFace-Mobile/jface-mobile/.gitignore",
+		"/Users/sam/GoogleDrive/CodeAndDev/traffic-game-coffeescript/node_modules/load-grunt-tasks/load-grunt-tasks.js",
+		"/Users/sam/GoogleDrive/CodeAndDev/traffic-game-coffeescript/bower_components/fabric/LICENSE",
+		"/Users/sam/GoogleDrive/CodeAndDev/traffic-game-coffeescript/src/app/canvas-objects/test-2.coffee",
+		"/Users/sam/GoogleDrive/CodeAndDev/traffic-game-coffeescript/src/app/game-objects/Spot.coffee",
+		"/Users/sam/GoogleDrive/CodeAndDev/traffic-game-coffeescript/src/index.html",
+		"/Users/sam/GoogleDrive/CodeAndDev/traffic-game-coffeescript/src/app/game-objects/Auto.coffee",
+		"/Users/sam/GoogleDrive/CodeAndDev/traffic-game-coffeescript/build-conf.coffee",
+		"/Users/sam/GoogleDrive/CodeAndDev/traffic-game-coffeescript/src/app/canvas-objects/draw-grid.coffee",
+		"/Users/sam/GoogleDrive/CodeAndDev/traffic-game-coffeescript/src/app/game-objects/test-2.coffee",
+		"/Users/sam/GoogleDrive/CodeAndDev/traffic-game-coffeescript/src/app/game-objects/Truck.coffee",
+		"/Users/sam/GoogleDrive/CodeAndDev/traffic-game-coffeescript/src/app/game-objects/Car.coffee",
+		"/Users/sam/GoogleDrive/CodeAndDev/traffic-game-coffeescript/build.coffee",
+		"/Users/sam/GoogleDrive/CodeAndDev/traffic-game-coffeescript/package.json",
+		"/Users/sam/GoogleDrive/CodeAndDev/traffic-game-coffeescript/Gruntfile.coffee",
+		"/Users/sam/GoogleDrive/CodeAndDev/traffic-game-coffeescript/bld.js",
+		"/Users/sam/GoogleDrive/CodeAndDev/traffic-game-coffeescript/index.js",
+		"/Users/sam/GoogleDrive/CodeAndDev/AngularFiddleTemplate/angular-fiddle-template/src/index.html",
+		"/Users/sam/GoogleDrive/CodeAndDev/AngularFiddleTemplate/angular-fiddle-template/.bowerrc",
+		"/Users/sam/GoogleDrive/CodeAndDev/AngularFiddleTemplate/angular-fiddle-template/Gruntfile.coffee",
+		"/Users/sam/GoogleDrive/CodeAndDev/AngularFiddleTemplate/angular-fiddle-template/src/app/cs/app.coffee",
+		"/Users/sam/GoogleDrive/CodeAndDev/AngularFiddleTemplate/angular-fiddle-template/src/bower_components/angular/angular-csp.css",
+		"/Users/sam/GoogleDrive/CodeAndDev/AngularFiddleTemplate/angular-fiddle-template/bower.json",
+		"/Users/sam/GoogleDrive/CodeAndDev/generator-sngs-frontend/directive/templates/_controller",
+		"/Users/sam/Library/Application Support/Sublime Text 3/Packages/User/IcedCoffeeScript.sublime-settings",
+		"/Users/sam/GoogleDrive/CodeAndDev/Uncatigorized/grunt-fun-1/build",
+		"/Users/sam/GoogleDrive/CodeAndDev/Uncatigorized/grunt-fun-1/src/webapp/app/main.js",
+		"/Users/sam/GoogleDrive/CodeAndDev/Uncatigorized/grunt-fun-1/src/webapp/require-config-main.js",
+		"/Users/sam/GoogleDrive/CodeAndDev/Uncatigorized/grunt-fun-1/.gitignore",
+		"/Users/sam/GoogleDrive/CodeAndDev/Uncatigorized/grunt-fun-1/src/webapp/app/hi.html",
+		"/Users/sam/GoogleDrive/CodeAndDev/Uncatigorized/grunt-fun-1/src/webapp/sam.json",
+		"/Users/sam/Downloads/V.DJ.P.v7.0.4_DeGun-TPB/DeGun VirtualDJ Pro Fixed.nfo",
+		"/Users/sam/GoogleDrive/Records/PostAmy/my-ok-cupid-profile.txt",
+		"/Users/sam/Downloads/angular-app-generator.git/app/templates/_index.html",
+		"/Users/sam/Downloads/angular-app-generator.git/app/templates/_npm-shrinkwrap.json",
+		"/Users/sam/Downloads/angular-app-generator.git/app/templates/_.bowerrc",
+		"/Users/sam/GoogleDrive/CodeAndDev/Uncatigorized/jdar-game-angular-only/src/index.js",
+		"/Users/sam/Downloads/angular-app-generator.git/app/templates/_env.json",
+		"/Users/sam/GoogleDrive/CodeAndDev/Uncatigorized/jdar-game-angular-only/src/main.js",
+		"/Users/sam/GoogleDrive/CodeAndDev/Uncatigorized/jdar-game-angular-only/src/src/require.config.js",
+		"/Users/sam/Downloads/angular-app-generator.git/app/templates/_src/app/states/index/index.html",
+		"/Users/sam/GoogleDrive/CodeAndDev/Uncatigorized/jdar-game-angular-only/Gruntfile.coffee",
+		"/Users/sam/GoogleDrive/CodeAndDev/Uncatigorized/jdar-game-angular-only/package.json",
+		"/Users/sam/GoogleDrive/Records/PostAmy/ThingsIWantToSayToAmyDuringLastMeeting.txt",
+		"/Users/sam/GoogleDrive/WorkRelated/MCAT_SRS/PlayingWithAngularFormValidation/script.js",
+		"/Users/sam/GoogleDrive/CodeAndDev/JDarGameNode/MeanStackService/jdar-game-mean/app/views/layouts/default.html",
+		"/Users/sam/GoogleDrive/CodeAndDev/JDarGameNode/MeanStackService/jdar-game-mean/app/views/index.html",
+		"/Users/sam/GoogleDrive/CodeAndDev/JDarGameNode/MeanStackService/jdar-game-mean/config/env/development.js",
+		"/Applications/Sublime Text.app/Contents/MacOS/changelog.txt",
+		"/Users/sam/Downloads/livereload.js",
+		"/Users/sam/Documents/Temp/angular-playing/play4/ng-aamc/package.json",
+		"/Users/sam/Downloads/webstorm-angular-plugin-shortcut-cheatsheet-maker.coffee",
+		"/Users/sam/Downloads/webstorm-angular-plugin-shortcut-cheatsheet.md",
+		"/Users/sam/Downloads/webstorm-angular-plugin-shortcut-summary.txt",
+		"/Users/sam/Downloads/webstorm-angular-plugin-shortcut-cheatsheet.json",
+		"/Users/sam/Downloads/index.html",
+		"/Users/sam/Downloads/pre_post_router_upgrade_speeds.txt",
+		"/Users/sam/Downloads/sam.py",
+		"/Users/sam/Downloads/nvm-install-script.sh",
+		"/Users/sam/Documents/Temp/abl/Gruntfile.js",
+		"/Users/sam/Documents/Temp/srs-bootstrap-ui/make_static_index.py",
+		"/Users/sam/Documents/Temp/srs-bootstrap-ui/app/bower_components/bootstrap/bootstrap.min.js",
+		"/Users/sam/Documents/Temp/aamc-ui-theme/app/bower_components/bootstrap/README.md",
+		"/Volumes/FilesAndBackup/Backups/StaticDriveImages/OSX_10_09/README.md"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 111.0,
+		"where_history":
+		[
+			"/Users/sam/GoogleDrive/CodeAndDev/traffic-game-coffeescript/src",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".lh",
+			"prefi",
+			"\";\n",
+			"SublimeLinter",
+			"hover",
+			"f0c9",
+			"debug",
+			"utils",
+			"empty",
+			"faceId",
+			"isJew:",
+			"isJew",
+			"isJewGuess",
+			"propertyParser",
+			"configuration",
+			"getId",
+			"green_car",
+			"src",
+			"@)\n",
+			"makeNew",
+			"\\.id",
+			"console.log",
+			"\\.id",
+			".id",
+			" #{(",
+			"Occupied",
+			"openSpotId",
+			"@occupyedSpots",
+			"@openSpots",
+			"@isOccupiedMap",
+			"isOccupiedMap",
+			"IsOccupiedMap",
+			"isOccupiedMap",
+			"openSpots",
+			"console.log",
+			"'",
+			"    ",
+			"  ",
+			"DirectiveGenerator",
+			"string",
+			"this",
+			"_",
+			"config",
+			"configureRewriteRules",
+			"request",
+			"rewriteRequest",
+			"connect",
+			"rewrite",
+			"configureRewriteRules",
+			"rules",
+			"rewriteRequest",
+			"rewri",
+			"reqrit",
+			"documentFns",
+			"    ",
+			"  ",
+			"	",
+			"  ",
+			"paths",
+			"log",
+			"width",
+			"tab",
+			"inde",
+			"%>'\n",
+			"']\n",
+			" ",
+			"pathname",
+			"location.pathname",
+			"app",
+			"config",
+			"rewri",
+			"require.config",
+			"requir",
+			"require",
+			"',\n",
+			"\"//",
+			"//",
+			">\n",
+			"  ",
+			"articles",
+			"'),\n",
+			"alert(",
+			"mongodb:",
+			"extreamily",
+			"addEventListener",
+			"attachEvent",
+			"src/main/js/",
+			"src/main/",
+			"\"scoreRangeUpper\": (\\d+)",
+			"\"scoreRangeUpper\": (\\d+),",
+			"\"scoreRangeLower\": (\\d+),",
+			"\"score\": (\\d+),",
+			" VM828:2",
+			".\n",
+			"VM828:2",
+			"$END$",
+			"//--Spliter--",
+			"\n",
+			"</template>",
+			"<template name=(\".*?\") value=(\".*?\") description=(\".*?\") .*>",
+			"-description",
+			"-value",
+			"-name",
+			"<context>\n<option name=\"HTML_TEXT\" value=\"true\"/>\n<option name=\"HTML\" value=\"true\"/>\n<option name=\"XSL_TEXT\" value=\"false\"/>\n<option name=\"XML\" value=\"false\"/>\n<option name=\"CSS_PROPERTY_VALUE\" value=\"false\"/>\n<option name=\"CSS_DECLARATION_BLOCK\" value=\"false\"/>\n<option name=\"CSS_RULESET_LIST\" value=\"false\"/>\n<option name=\"CSS\" value=\"false\"/>\n<option name=\"JAVA_SCRIPT\" value=\"false\"/>\n<option name=\"JSP\" value=\"false\"/>\n<option name=\"HAML\" value=\"false\"/>\n<option name=\"OTHER\" value=\"false\"/>\n</context>",
+			"<context>\n<option name=\"HTML_TEXT\" value=\"true\"/>\n<option name=\"HTML\" value=\"true\"/>\n<option name=\"XSL_TEXT\" value=\"false\"/>\n<option name=\"XML\" value=\"false\"/>\n<option name=\"CSS\" value=\"false\"/>\n<option name=\"JAVA_SCRIPT\" value=\"false\"/>\n<option name=\"JSP\" value=\"false\"/>\n<option name=\"HAML\" value=\"false\"/>\n<option name=\"OTHER\" value=\"false\"/>\n<option name=\"CSS_PROPERTY_VALUE\" value=\"false\"/>\n<option name=\"CSS_DECLARATION_BLOCK\" value=\"false\"/>\n<option name=\"CSS_RULESET_LIST\" value=\"false\"/>\n</context>",
+			"<variable.*\\n",
+			"<context>\n<option name=\"HTML_TEXT\" value=\"false\"/>\n<option name=\"HTML\" value=\"false\"/>\n<option name=\"XSL_TEXT\" value=\"false\"/>\n<option name=\"XML\" value=\"false\"/>\n<option name=\"CSS\" value=\"false\"/>\n<option name=\"JAVA_SCRIPT\" value=\"true\"/>\n<option name=\"JSP\" value=\"false\"/>\n<option name=\"HAML\" value=\"false\"/>\n<option name=\"OTHER\" value=\"false\"/>\n<option name=\"CSS_PROPERTY_VALUE\" value=\"false\"/>\n<option name=\"CSS_DECLARATION_BLOCK\" value=\"false\"/>\n<option name=\"CSS_RULESET_LIST\" value=\"false\"/>\n</context>",
+			"<context>\n<option name=\"HTML_TEXT\" value=\"false\"/>\n<option name=\"HTML\" value=\"false\"/>\n<option name=\"XSL_TEXT\" value=\"false\"/>\n<option name=\"XML\" value=\"false\"/>\n<option name=\"CSS_PROPERTY_VALUE\" value=\"false\"/>\n<option name=\"CSS_DECLARATION_BLOCK\" value=\"false\"/>\n<option name=\"CSS_RULESET_LIST\" value=\"false\"/>\n<option name=\"CSS\" value=\"false\"/>\n<option name=\"JAVA_SCRIPT\" value=\"true\"/>\n<option name=\"JSP\" value=\"false\"/>\n<option name=\"HAML\" value=\"false\"/>\n<option name=\"OTHER\" value=\"false\"/>\n</context>",
+			"coff",
+			"score_report_total_img_path",
+			")\n",
+			"\">'\n",
+			"('<",
+			" \"",
+			"@navbar-default-link-active-bg",
+			"@[\\w\\-]+",
+			"@media",
+			"@[\\w-]+"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"\"http://",
+			"\"scoreRangeUpper\": \"\\1\"",
+			"\"scoreRangeLower\": \"\\1\",",
+			"\"score\": \"\\1\",",
+			"\"score\": \"(\\1)\",",
+			"\\{\"name\":\\1, \"value\":\\2, \"description\":\\3\\}"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 35.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "generator-sngs-angular.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"app",
+				"src/app/app.coffee"
+			],
+			[
+				"confi",
+				"src/config.coffee"
+			],
+			[
+				"con",
+				"src/config.coffee"
+			],
+			[
+				"conf",
+				"src/config.coffee"
+			],
+			[
+				"",
+				"src/app/game-objects/GameSolver.coffee"
+			],
+			[
+				"lo",
+				"src/app/game-objects/Lot.coffee"
+			],
+			[
+				"lot",
+				"src/app/game-objects/Lot.coffee"
+			],
+			[
+				"re",
+				"src/require.config.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 232.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
