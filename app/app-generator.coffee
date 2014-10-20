@@ -36,6 +36,7 @@ config = ->
   @buildDir = 'build'
   @buildUtilsDir = '.build-utils'
   @appDir = "#{@srcDir}/app"
+  @utilDir = "#{@srcDir}/utils"
   @bowerDir = "#{@srcDir}/bower_components"
 
   # Set .yo-rc config
@@ -50,6 +51,7 @@ config = ->
     @buildDir
     @buildUtilsDir
     @appDir
+    @utilDir
     @bowerDir
   }
 
@@ -79,7 +81,18 @@ app = ->
   @template "#{@srcDir}/_config.coffee", "#{@srcDir}/config.coffee"
   @template "#{@srcDir}/_index.html", "#{@srcDir}/index.html"
   @template "#{@srcDir}/_styles.less", "#{@srcDir}/styles.less"
+  #
   @mkdir @appDir
+  @template "#{@appDir}/_main.coffee", "#{@appDir}/main.coffee"
+  @template "#{@appDir}/_main.coffee", "#{@appDir}/main.coffee"
+  @template "#{@appDir}/_constants.json", "#{@appDir}/constants.json"
+  @template "#{@appDir}/_app-controller.coffee", "#{@appDir}/app-controller.coffee"
+  @template "#{@appDir}/_app.coffee", "#{@appDir}/app.coffee"
+  #
+  @mkdir @utilDir
+  @template "#{@utilDir}/_general.coffee", "#{@utilDir}/general.coffee"
+  @template "#{@utilDir}/_ngcoffee-base-controller.coffee", "#{@utilDir}/ngcoffee-base-controller.coffee"
+  #
   @mkdir @tempDir
   @directory @buildUtilsDir, @buildUtilsDir
 
