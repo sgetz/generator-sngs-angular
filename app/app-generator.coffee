@@ -24,6 +24,7 @@ config = ->
   @appName = @name
   @appNameSlug = @_.slugify(@appName)
   @appNameCamel = @_.camelize(@appNameSlug)
+  @appNameClass = @_.classify(@appNameSlug)
 
   #Create and Set Proj Root
   @rootProjectDir = path.join(@destinationRoot(), @appNameSlug)
@@ -33,11 +34,19 @@ config = ->
   # App Path Props
   @tempDir = '.tmp'
   @srcDir = 'src'
+  @requireJSRoot = @srcDir
   @buildDir = 'build'
   @buildUtilsDir = '.build-utils'
   @appDir = "#{@srcDir}/app"
+  @statesDir = "#{@appDir}/states"
+  @componentsDir = "#{@appDir}/components"
+  @servicesDir = "#{@componentsDir}/services"
+  @filtersDir = "#{@componentsDir}/filters"
+  @directivesDir = "#{@componentsDir}/directives"
   @utilDir = "#{@srcDir}/utils"
   @bowerDir = "#{@srcDir}/bower_components"
+  #
+  #consider adding var pointing to base coffeescript controler class
 
   # Set .yo-rc config
   @config.set 'coffeescript', true
@@ -48,9 +57,15 @@ config = ->
     @rootProjectDir
     @tempDir
     @srcDir
+    @requireJSRoot
     @buildDir
     @buildUtilsDir
     @appDir
+    @statesDir
+    @componentsDir
+    @servicesDir
+    @filtersDir
+    @directivesDir
     @utilDir
     @bowerDir
   }
@@ -93,6 +108,12 @@ app = ->
   @template "#{@utilDir}/_general.coffee", "#{@utilDir}/general.coffee"
   @template "#{@utilDir}/_ngcoffee-base-controller.coffee", "#{@utilDir}/ngcoffee-base-controller.coffee"
   #
+  @mkdir @statesDir
+  @mkdir @componentsDir
+  @mkdir @servicesDir
+  @mkdir @filtersDir
+  @mkdir @directivesDir
+  #
   @mkdir @tempDir
   @directory @buildUtilsDir, @buildUtilsDir
 
@@ -107,7 +128,7 @@ app = ->
   @template "editorconfig", ".editorconfig"
 
   # Write the .yo-rc file
-  #@config.save()
+  @config.save()
 
 
 projectfiles = ->
